@@ -8,3 +8,4 @@ function LogoutComponent(){
         </div>
     )
 }
+export default LogoutComponent
